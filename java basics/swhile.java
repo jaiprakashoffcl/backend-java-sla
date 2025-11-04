@@ -9,7 +9,7 @@ int count = 1;
 
 while(count <= 10){
 
-      System.out.println("hello " + count);
+      System.out.println("Number  " + count);
       count++; 
 
 }
