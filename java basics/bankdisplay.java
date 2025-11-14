@@ -24,7 +24,7 @@ public void displaydetails(){ // method implementation
 }
 
 public class bankdisplay{
-      public static void main(String []args){ //public - access specifier static-access modifier void -return type main-methodname(parameter)
+      public static void main(String []args){ //public - access specifier static-access modifier void-return type main-methodname(parameter)
              bank a1 = new bank();
              bank a2 = new bank();
 
